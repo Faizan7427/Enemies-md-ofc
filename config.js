@@ -8,14 +8,11 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['393756447945', '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓', true],
-  ['377607935810'],
-  ['393756447945'],
-  ['393756447945']
+  ['923164348433', 'Faizi', true],
 ] 
 
-global.suittag = ['393756447945'];
-global.prems = ['393756447945'];
+global.suittag = ['923164348433'];
+global.prems = ['923164348433'];
 
 
 global.packname = '𝐄ИΞM𝕀Ξ𝐒'
@@ -31,7 +28,7 @@ global.imagen4 = fs.readFileSync('./Menu.png');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
-global.mods = [];
+global.mods = ['Faizi'];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
@@ -50,7 +47,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = 'ok'
 global.waittt = 'ok'
 global.waitttt = 'ok'
-global.nomorown = '393756447945'
+global.nomorown = '923164348433'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
